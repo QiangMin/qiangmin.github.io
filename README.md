@@ -1,18 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>QiangMin</title>
-</head>
-<body>
-	<h1> qiangmin.github.io</h1>
+# qiangmin.github.io
 
-	<h2> 1.对日常学习的笔记的汇总<h2>
+## 1.对日常学习的笔记的汇总
 
-	访问网址：<a href="https://qiangmin.github.io/collect-notes/index.html">笔记收纳</a>
+访问网址：[笔记收纳](https://qiangmin.github.io/collect-notes/index.html)
 
-	<h2> 2.webpack4.35 基础配置</h2>
+## 2.webpack4.35 基础配置
 
-	访问地址：<a href="https://github.com/QiangMin/webpack">webpack4.35</a>
-</body>
-</html>
+访问地址：[webpack](https://github.com/QiangMin/webpack)
