@@ -6,4 +6,4 @@
 
 ## 2.webpack4.35 基础配置
 
-访问地址:[webpack](https://github.com/QiangMin/webpack)
+访问地址：[webpack](https://github.com/QiangMin/webpack)
